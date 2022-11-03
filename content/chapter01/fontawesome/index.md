@@ -6,7 +6,7 @@ draft: false
 tags: ["love", "sex"]
 ---
 
-## Demo Font Awesome
+## Looks Good
 
 {{< fa bath >}} Look good in some case
 
