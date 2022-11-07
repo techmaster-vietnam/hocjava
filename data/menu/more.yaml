@@ -3,11 +3,11 @@ more:
   - name: News
     ref: "/#"
     icon: "gdoc_notification"
-  - name: Releases
-    ref: "https://github.com/thegeeklab/hugo-geekdoc/releases"
+  - name: Giới thiệu
+    ref: "/about"
     external: true
     icon: "gdoc_download"
-  - name: "View Source"
-    ref: "https://github.com/thegeeklab/hugo-geekdoc"
+  - name: Liên hệ
+    ref: "/contact"
     external: true
-    icon: "gdoc_github"
+    icon: "gdoc_download"
